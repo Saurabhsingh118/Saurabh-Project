@@ -1,2 +1,2 @@
 #Saurabh-Project
-This is a  online shopping Project (E-Commerce)
+This is Online Shopping Project (E-Commerce)
